@@ -24,4 +24,8 @@ This project retrieves weather information for a city using the OpenWeatherMap A
 - **CSS3**: Design and styling.
 - **JavaScript (ES6)**: Dynamic weather data retrieval and processing.
 - **OpenWeatherMap API**: Providing weather information.
+
+git clone https://github.com/enesatacan/Weather-with-JS
+
+
 ![image](https://github.com/user-attachments/assets/fb40c541-aba6-4abe-8e6d-4b26932a4a69)
